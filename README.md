@@ -6,7 +6,7 @@ FB-HACKER
 
 ## install 
 
-git clone https://github.com/MR-DARK54/Facebook-hacker
+git clone https://github.com/dived69/Facebook-hacker.git
 
 
 
